@@ -24,6 +24,12 @@ print (response)
 
 
 '''
+- when it worked
+wankim@WANKIM-M-P1E1 010-NXAPI % python3 017-interface-config.py 
+{'ins_api': {'sid': 'eoc', 'type': 'cli_conf', 'version': '1.0', 'outputs': {'output': [{'code': '200', 'msg': 'Success', 'body': {}}, {'code': '200', 'msg': 'Success', 'body': {}}, {'code': '200', 'msg': 'Success', 'body': {}}, {'code': '200', 'msg': 'Success', 'body': {}}]}}}
+wankim@WANKIM-M-P1E1 010-NXAPI % 
+
+- when failed
 wankim@WANKIM-M-P1E1 010-NXAPI % python3 017-interface-config.py 
 {'ins_api': {'sid': 'eoc', 'type': 'cli_conf', 'version': '1.0', 'outputs': {'output': [{'code': '200', 'msg': 'Success', 'body': {}}, {'code': '200', 'msg': 'Success', 'body': {}}, {'code': '200', 'msg': 'Success', 'body': {}}, {'code': '400', 'msg': 'CLI execution error', 'clierror': 'overlapping network for ipv4 address: 4.1.1.1/24 on eth1/8, 4.1.1.1/24 already configured on eth1/7\n'}]}}}
 wankim@WANKIM-M-P1E1 010-NXAPI %
