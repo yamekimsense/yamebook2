@@ -13,7 +13,7 @@ client_cert='PATH_TO_CLIENT_CERT_FILE'
 client_private_key='PATH_TO_CLIENT_PRIVATE_KEY_FILE'
 ca_cert='PATH_TO_CA_CERT_THAT_SIGNED_NXAPI_SERVER_CERT'
 
-url='http://sandbox-nxos-1.cisco.com/ins'
+url='http://10.10.20.95/ins'
 myheaders={'content-type':'application/json'}
 payload={
   "ins_api": {
