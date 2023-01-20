@@ -1,0 +1,6 @@
+INFO:root:line 1000 response <Response [200]>
+INFO:root:line 2000 response {}
+INFO:root:line 1000 response <Response [200]>
+INFO:root:line 2000 response {}
+INFO:root:line 1000 response <Response [403]>
+INFO:root:line 2000 response {"message":"Access to this API denied due to authorization error"}
