@@ -1,0 +1,90 @@
+sandboxapicdc.cisco.com admin !v3G@!4@Y
+{
+    "totalCount": "1",
+    "imdata": [
+        {
+            "aaaLogin": {
+                "attributes": {
+                    "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Im1ibWh6ZXZiNTB4OGwxNjVmM2dueDBjaDdkdmJ6dnd0IiwidHlwIjoiand0In0.eyJyYmFjIjpbeyJkb21haW4iOiJhbGwiLCJyb2xlc1IiOjAsInJvbGVzVyI6MX1dLCJpc3MiOiJBQ0kgQVBJQyIsInVzZXJuYW1lIjoiYWRtaW4iLCJ1c2VyaWQiOjE1Mzc0LCJ1c2VyZmxhZ3MiOjAsImlhdCI6MTY4MzI5NzExMiwiZXhwIjoxNjgzMjk3NzEyLCJzZXNzaW9uaWQiOiJ2SzJ0ODQzMlJZK3JXVW5mQ3lJNzhRPT0ifQ.LQFeTlq--1PaDGQbyyC71vMOz3llDr14LCcN9V-Xwz-IxmSlnBtR7lfH3XKKo1FICbxMitgQcOBKFd9C2tqY0-X71FC1tEJv3UgvccC8ZdOKANOpV7UBYSM4cD9iPE9UL0vnTZLtsZA0dpr6qEF6c0AzFFsFxRFDl3jH0K9tuQvnqHlJqGXWp2cPZ6FynyUinfJrZTimzyHxKNs-mYpyX2QEC0g9oKH4w6hCe6HAhL7JHwck0po3FrkiArOMAMENIlOVgDw8yb1u3tEcUsJcF0coLRgv3o1Dz846wmQJQYvjkfHs5oZAfUWuRdPahCdJ9wEu6GyBNaKuIaKwlfmGoQ",
+                    "siteFingerprint": "mbmhzevb50x8l165f3gnx0ch7dvbzvwt",
+                    "refreshTimeoutSeconds": "600",
+                    "maximumLifetimeSeconds": "86400",
+                    "guiIdleTimeoutSeconds": "1200",
+                    "restTimeoutSeconds": "90",
+                    "creationTime": "1683297112",
+                    "firstLoginTime": "1683297112",
+                    "userName": "admin",
+                    "remoteUser": "false",
+                    "unixUserId": "15374",
+                    "sessionId": "vK2t8432RY+rWUnfCyI78Q==",
+                    "lastName": "",
+                    "firstName": "",
+                    "changePassword": "no",
+                    "version": "6.0(2h)",
+                    "buildTime": "Sun Feb 26 22:50:06 PST 2023",
+                    "node": "topology/pod-1/node-1"
+                },
+                "children": [
+                    {
+                        "aaaUserDomain": {
+                            "attributes": {
+                                "name": "all",
+                                "rolesR": "admin",
+                                "rolesW": "admin"
+                            },
+                            "children": [
+                                {
+                                    "aaaReadRoles": {
+                                        "attributes": {}
+                                    }
+                                },
+                                {
+                                    "aaaWriteRoles": {
+                                        "attributes": {},
+                                        "children": [
+                                            {
+                                                "role": {
+                                                    "attributes": {
+                                                        "name": "admin"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "DnDomainMapEntry": {
+                            "attributes": {
+                                "dn": "uni/tn-mgmt",
+                                "readPrivileges": "admin",
+                                "writePrivileges": "admin"
+                            }
+                        }
+                    },
+                    {
+                        "DnDomainMapEntry": {
+                            "attributes": {
+                                "dn": "uni/tn-infra",
+                                "readPrivileges": "admin",
+                                "writePrivileges": "admin"
+                            }
+                        }
+                    },
+                    {
+                        "DnDomainMapEntry": {
+                            "attributes": {
+                                "dn": "uni/tn-common",
+                                "readPrivileges": "admin",
+                                "writePrivileges": "admin"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
+eyJhbGciOiJSUzI1NiIsImtpZCI6Im1ibWh6ZXZiNTB4OGwxNjVmM2dueDBjaDdkdmJ6dnd0IiwidHlwIjoiand0In0.eyJyYmFjIjpbeyJkb21haW4iOiJhbGwiLCJyb2xlc1IiOjAsInJvbGVzVyI6MX1dLCJpc3MiOiJBQ0kgQVBJQyIsInVzZXJuYW1lIjoiYWRtaW4iLCJ1c2VyaWQiOjE1Mzc0LCJ1c2VyZmxhZ3MiOjAsImlhdCI6MTY4MzI5NzExMiwiZXhwIjoxNjgzMjk3NzEyLCJzZXNzaW9uaWQiOiJ2SzJ0ODQzMlJZK3JXVW5mQ3lJNzhRPT0ifQ.LQFeTlq--1PaDGQbyyC71vMOz3llDr14LCcN9V-Xwz-IxmSlnBtR7lfH3XKKo1FICbxMitgQcOBKFd9C2tqY0-X71FC1tEJv3UgvccC8ZdOKANOpV7UBYSM4cD9iPE9UL0vnTZLtsZA0dpr6qEF6c0AzFFsFxRFDl3jH0K9tuQvnqHlJqGXWp2cPZ6FynyUinfJrZTimzyHxKNs-mYpyX2QEC0g9oKH4w6hCe6HAhL7JHwck0po3FrkiArOMAMENIlOVgDw8yb1u3tEcUsJcF0coLRgv3o1Dz846wmQJQYvjkfHs5oZAfUWuRdPahCdJ9wEu6GyBNaKuIaKwlfmGoQ
