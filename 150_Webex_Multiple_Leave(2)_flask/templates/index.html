@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Cisco Webex Teams - Multi Room Exit for Cisco Employee
+    </title>
+</head>
+
+<body>
+    <h3>         Cisco Webex Teams - Multi Room Exit for Cisco Employee</h3><br>
+
+    <form method="GET" action="/calculate">
+        <div>
+            <label for="char1"> email (including @cisco.com) </label>
+            <input type="text" name="char1" size="30">
+        </div>
+
+        <div>
+            <label for="char2"> your webex token </label>
+            <input type="text" name="char2" size="130">
+        </div>
+
+
+        <div class='button'>
+            <button type="submit"> Submit! </button>
+        </div>
+    </form>
+
+
+
+    <br>
+    <a href="https://developer.webex.com/docs/getting-started" target="_blank">Visit Here and Get the Token</a>
+    <br><br>
+    <br>
+    <img src="{{ url_for('static', filename='img/index01.png')}}">
+    <br>
+    <img src="{{ url_for('static', filename='img/index02.png')}}">
+
+</body>
+</html>

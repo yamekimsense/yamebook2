@@ -1,0 +1,20 @@
+
+0. At the Mac, <pip install requests>
+
+1. Token
+visit https://developer.webex.com/docs/getting-started
+copy Your Personal Access Token
+Paste into <info.py>
+
+2. Email
+Open <info.py> and write your email.
+
+3. Run c101-rooms-to-csv.py
+
+4. Open <room_list.csv> file at the excel.
+
+5. Put <q> where you want to exit.
+
+6. Save and close
+
+7. Run c102-delete-from-csv.py

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Webex Room List</title>
+</head>
+
+<style>
+  table {
+    width: 100%;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #444444;
+  }
+</style>
+
+<body>
+
+ <form method="POST" action="/get">
+        <br> <input type="submit">
+		{% for item in list %}
+          <br>
+            <input type="checkbox" value={{item[2]}} name="mycheckbox"> {{item[0]}} {{item[1]}}
+        {% endfor %}
+
+</body>
+</html>
