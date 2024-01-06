@@ -1,0 +1,528 @@
+AP Name                                           : XXX_123456_17F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 0%
+AP Name                                           : XXX_123456_17F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 0%
+AP Name                                           : XXX_123456_17F_AP2
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 1%
+AP Name                                           : XXX_123456_17F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 0%
+AP Name                                           : XXX_123456_17F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 0%
+AP Name                                           : XXX_123456_17F_AP1
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 0%
+AP Name                                           : XXX_12356780123_AP2
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 1%
+AP Name                                           : XXX_12356780123_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 1%
+AP Name                                           : XXX_12356780123_AP1
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 1%
+AP Name                                           : XXX_XX_4F_AP4
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 57%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_8F_AP7
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 58%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_6F_AP11
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 81%
+AP Name                                           : XXX_XX_6F_AP12
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 2%
+AP Name                                           : XXX_XX_5F_AP8
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 49%
+    Channel Utilization                         : 82%
+AP Name                                           : XXX_XX_5F_AP1
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 37%
+    Channel Utilization                         : 74%
+AP Name                                           : XXX_XX_5F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_8F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 79%
+AP Name                                           : XXX_XX_7F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 80%
+AP Name                                           : XXX_XX_4F_AP14
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 56%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_2F_AP1
+    Receive Utilization                         : 3%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_3F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_3F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 70%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_4F_AP8
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 60%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_4F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_5F_AP14
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 57%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_8F_AP1
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_9F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_3F_AP1
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 43%
+    Channel Utilization                         : 58%
+AP Name                                           : XXX_XX_7F_AP9
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 50%
+    Channel Utilization                         : 92%
+AP Name                                           : XXX_XX_4F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_7F_AP12
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 74%
+AP Name                                           : XXX_XX_4F_AP9
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 54%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_8F_AP11
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 3%
+AP Name                                           : XXX_XX_3F_AP15
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_7F_AP8
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 43%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_2F_AP8
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 63%
+AP Name                                           : XXX_XX_7F_AP14
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 46%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_3F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 28%
+    Channel Utilization                         : 28%
+AP Name                                           : XXX_XX_4F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_3F_AP11
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 27%
+    Channel Utilization                         : 64%
+AP Name                                           : XXX_XX_6F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_4F_AP11
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 80%
+AP Name                                           : XXX_XX_4F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 30%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_6F_AP9
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 26%
+AP Name                                           : XXX_XX_7F_AP15
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_4F_AP16
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 54%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_8F_AP16
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_6F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_8F_AP8
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 89%
+AP Name                                           : XXX_XX_2F_AP3
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 71%
+AP Name                                           : XXX_XX_3F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 62%
+AP Name                                           : XXX_XX_9F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 73%
+AP Name                                           : XXX_XX_3F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 27%
+    Channel Utilization                         : 78%
+AP Name                                           : XXX_XX_2F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_2F_AP2
+    Receive Utilization                         : 5%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 79%
+AP Name                                           : XXX_XX_6F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 50%
+    Channel Utilization                         : 80%
+AP Name                                           : XXX_XX_2F_AP9
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_7F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_6F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_3F_AP12
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 41%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_2F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 36%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_3F_AP8
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_2F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_7F_AP2
+    Receive Utilization                         : 6%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 90%
+AP Name                                           : XXX_XX_7F_AP1
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 56%
+AP Name                                           : XXX_XX_4F_AP1
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 46%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_3F_AP2
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 64%
+AP Name                                           : XXX_XX_2F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 74%
+AP Name                                           : XXX_XX_8F_AP15
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 71%
+AP Name                                           : XXX_XX_6F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 78%
+AP Name                                           : XXX_XX_8F_AP12
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 28%
+    Channel Utilization                         : 82%
+AP Name                                           : XXX_XX_8F_AP9
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 50%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_8F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_8F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_2F_AP11
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 56%
+AP Name                                           : XXX_XX_3F_AP14
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_2F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_3F_AP9
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 76%
+AP Name                                           : XXX_XX_3F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 27%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_7F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 75%
+AP Name                                           : XXX_XX_9F_AP1
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_7F_AP11
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 49%
+    Channel Utilization                         : 90%
+AP Name                                           : XXX_XX_7F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_4F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 25%
+    Channel Utilization                         : 78%
+AP Name                                           : XXX_XX_5F_AP9
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 50%
+    Channel Utilization                         : 90%
+AP Name                                           : XXX_XX_6F_AP14
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_7F_AP6
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_7F_AP16
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 57%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_7F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 54%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_6F_AP15
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_3F_AP3
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 76%
+AP Name                                           : XXX_XX_4F_AP2
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 47%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_5F_AP12
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 64%
+AP Name                                           : XXX_XX_6F_AP16
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 80%
+AP Name                                           : XXX_XX_4F_AP15
+    Receive Utilization                         : 3%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_5F_AP2
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_4F_AP12
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 56%
+    Channel Utilization                         : 60%
+AP Name                                           : XXX_XX_5F_AP15
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 60%
+AP Name                                           : XXX_XX_5F_AP10
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 87%
+AP Name                                           : XXX_XX_8F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_5F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 54%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_5F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_5F_AP11
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 45%
+    Channel Utilization                         : 83%
+AP Name                                           : XXX_XX_5F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 28%
+    Channel Utilization                         : 80%
+AP Name                                           : XXX_XX_4F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 28%
+    Channel Utilization                         : 90%
+AP Name                                           : XXX_XX_6F_AP8
+    Receive Utilization                         : 4%
+    Transmit Utilization                        : 59%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_8F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 47%
+    Channel Utilization                         : 90%
+AP Name                                           : XXX_XX_8F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_5F_AP3
+    Receive Utilization                         : 6%
+    Transmit Utilization                        : 61%
+    Channel Utilization                         : 81%
+AP Name                                           : XXX_XX_8F_AP2
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 90%
+AP Name                                           : XXX_XX_5F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 45%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_7F_AP5
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 74%
+AP Name                                           : XXX_XX_5F_AP16
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 57%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_9F_AP2
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 71%
+AP Name                                           : XXX_XX_6F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 29%
+AP Name                                           : XXX_XX_6F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 54%
+    Channel Utilization                         : 77%
+AP Name                                           : XXX_XX_6F_AP1
+    Receive Utilization                         : 1%
+    Transmit Utilization                        : 53%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_6F_AP2
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_8F_AP14
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 91%
+AP Name                                           : XXX_123456_17F_AP4
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 0%
+    Channel Utilization                         : 0%
+AP Name                                           : XXX_XX_9F_AP6
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 46%
+    Channel Utilization                         : 91%
+AP Name                                           : XXX_XX_9F_AP9
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_9F_AP15
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 84%
+AP Name                                           : XXX_XX_9F_AP10
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 74%
+AP Name                                           : XXX_XX_9F_AP12
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 78%
+AP Name                                           : XXX_XX_9F_AP5
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 52%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_9F_AP13
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_9F_AP11
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 51%
+    Channel Utilization                         : 85%
+AP Name                                           : XXX_XX_9F_AP16
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 86%
+AP Name                                           : XXX_XX_9F_AP8
+    Receive Utilization                         : 2%
+    Transmit Utilization                        : 55%
+    Channel Utilization                         : 88%
+AP Name                                           : XXX_XX_9F_AP14
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 26%
+    Channel Utilization                         : 82%
+AP Name                                           : XXX_XX_9F_AP7
+    Receive Utilization                         : 0%
+    Transmit Utilization                        : 1%
+    Channel Utilization                         : 82%

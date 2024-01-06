@@ -1,0 +1,13 @@
+
+
+This code extracts AP channel / Power Level / Client / CU / RX / TX and interference.
+
+
+1. Place <show tech wireless> files from Cisco Catalyst 9800.
+   You can put the multiple files.
+
+2. Run <210.py> which inserts the status stats into the database.
+
+3. RUn <220.py> which shows the averages.
+
+4. Run <230.py> which draws the map with the status stats.
